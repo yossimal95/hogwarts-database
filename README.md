@@ -1,4 +1,5 @@
-##The Hogwarts School Database.
+The Hogwarts School Database.
+======
 
 I was looking for a nice database that I could practice on and learn SQL in a convenient and interesting way.
 
@@ -15,6 +16,9 @@ Query ideas:
    * How many students are of a given year?
    * Which students have no parents?
    
-###Again; the credit for the database itself belongs to:
-###https://github.com/thedevelopnik/hogwarts-sql
-###I just built the script.
+Again; the credit for the database itself belongs to:
+------
+https://github.com/thedevelopnik/hogwarts-sql
+------
+I just built the script.
+------
